@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonkretzmannsilva&show_icons=true&theme=dark#gh-dark-mode-only)
 
 
+![Robson Kretzmann](https://github-readme-stats.vercel.app/api?username=robsonkretzmannsilva-ti&show_icons=true&theme=tokyonight) 
+
+  ![Robson Kretzmann](https://github-readme-streak-stats.herokuapp.com/?user=robsonkretzmannsilva-ti&theme=tokyonight) 
+  
+![Stars](https://github-readme-stats.vercel.app/api?username=robsonkretzmannsilva-ti&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
