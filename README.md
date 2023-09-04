@@ -15,10 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonkretzmannsilva&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=robsonkretzmannsilva&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robsonkretzmannsilva&show_icons=true)
