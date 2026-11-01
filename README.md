@@ -47,8 +47,6 @@ Os números incluem repositórios privados, onde está a maior parte do meu trab
 
 ![Linguagens mais usadas](./metrics/languages.svg)
 
-![Calendário de contribuições](./metrics/calendar.svg)
-
 ## Contato
 
 - Site: [rsolucoestecnolgicas.com.br](https://rsolucoestecnolgicas.com.br)
