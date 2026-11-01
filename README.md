@@ -1,6 +1,6 @@
 # Robson Kretzmann da Silva
 
-Desenvolvedor full stack em Florianópolis, SC, com mais de 5 anos de GitHub e sistemas em produção. Fundador da [R Soluções Tecnológicas](https://rsolucoestecnolgicas.com.br).
+Desenvolvedor full stack em Florianópolis, SC, com sistemas em produção desde 2019. Sócio e co-fundador da **Syncfy** e desenvolvedor na **R Soluções Tecnológicas**.
 
 ## Tecnologias que uso
 
@@ -49,5 +49,4 @@ Os números incluem repositórios privados, onde está a maior parte do meu trab
 
 ## Contato
 
-- Site: [rsolucoestecnolgicas.com.br](https://rsolucoestecnolgicas.com.br)
 - GitHub: [@robsonkretzmannsilva](https://github.com/robsonkretzmannsilva)
