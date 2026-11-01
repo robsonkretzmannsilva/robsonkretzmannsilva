@@ -1,6 +1,6 @@
 # Robson Kretzmann da Silva
 
-Desenvolvedor full stack em Florianópolis, SC, com sistemas em produção desde 2019. Sócio e co-fundador da **Syncfy** e desenvolvedor na **R Soluções Tecnológicas**.
+Desenvolvedor full stack em Florianópolis, SC, com sistemas em produção desde 2019. Sócio e co-fundador da [Syncfy](https://www.syncfy.com.br/), plataforma de agentes de IA para imobiliárias, e desenvolvedor na **R Soluções Tecnológicas**.
 
 ## Tecnologias que uso
 
